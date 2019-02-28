@@ -1,2 +1,2 @@
 # Git workflow demo
-Today, we'll learn about Git, Github, and branches using this repo.
+Today, we'll learn about Git, Github, branches, and pull requests using this repo.
